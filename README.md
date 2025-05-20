@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>🏫 Daffodil International University</strong><br>
-  📅 <em>Summer 2025</em> &nbsp; | &nbsp; 💻 <em>B.Sc. in Computer Science & Engineering</em><br>
+  📅 <em>Summer 2025</em> &nbsp; || &nbsp; 💻 <em>B.Sc. in Computer Science & Engineering</em><br>
   👨‍🏫 <strong>Guided by: Ms. Nasima Islam Bithi</strong>
 </p>
 
