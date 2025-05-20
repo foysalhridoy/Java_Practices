@@ -23,4 +23,4 @@ This repository serves as a curated collection of **hands-on classwork, homework
 
 ---
 
-## 🗂️ Folder Structure
+
