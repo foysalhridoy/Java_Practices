@@ -21,6 +21,5 @@ This repository serves as a curated collection of **hands-on classwork, homework
 
 > 📬 **All submissions are made via GitHub and reviewed directly by my respected course teacher.**
 
----
 
 
