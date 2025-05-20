@@ -19,7 +19,7 @@
 Welcome to my Java-based **Object-Oriented Programming (OOP)** assignment hub!  
 This repository serves as a curated collection of **hands-on classwork, homework tasks, and practical OOP examples**, all implemented cleanly using **Java**.
 
-> 📬 **All submissions are made via GitHub and reviewed directly by our respected course teacher.**
+> 📬 **All submissions are made via GitHub and reviewed directly by my respected course teacher.**
 
 ---
 
