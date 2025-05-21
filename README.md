@@ -36,6 +36,4 @@ This repository serves as a curated collection of **hands-on classwork, homework
 - ✍️ Solve weekly Java OOP assignments  
 - 🧠 Understand core OOP principles: Encapsulation, Inheritance, Polymorphism, and Abstraction  
 - 🧪 Practice design patterns and reusable code structure  
-- 🚀 Grow from beginner to intermediate-level Java developer  
-
----
+- 🚀 Grow from beginner to intermediate-level Java developer
